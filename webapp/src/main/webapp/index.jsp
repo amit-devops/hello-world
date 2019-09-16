@@ -2,4 +2,4 @@
 <h2> Deploying on Kubernetes </h2>
 <h3> production's final update and party One last test </h3>
 <h3> Build + test + preprodction + Production + devops  last test case </h3>
-<h5> merge and rebase conflicts </h5>
+<h5>Madhu + amit should work on merge and rebase conflicts </h5>
